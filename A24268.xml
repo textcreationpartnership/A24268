@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account from Scotland and London-derry of the proceedings against the Duke of Gordon in the castle of Edinburgh, Friday June the 7th</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24268</idno>
+            <idno type="STC">Wing A174A</idno>
+            <idno type="STC">ESTC P2707</idno>
+            <idno type="EEBO-CITATION">11510483</idno>
+            <idno type="OCLC">ocm 11510483</idno>
+            <idno type="VID">47860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47860)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account from Scotland and London-derry of the proceedings against the Duke of Gordon in the castle of Edinburgh, Friday June the 7th</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Groom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Broadside.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gordon, George, --  George Gordon Duke of, 1649-1716.</term>
+               <term>Edinburgh Castle (Edinburgh, Scotland). --  Siege, 1689.</term>
+               <term>Scotland --  History --  1689-1745.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:47860:1"/>
+            <head>
+               <hi>Numb.</hi> 1 An ACCOUNT From Scotland and London-derry Of the Proceedings againſt the <hi>Duke of Gordon,</hi> In the CASTLE of <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>Friday <hi>June</hi> the 7<hi>th.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Edinburgh</hi> May 20. THere was an Expreſs from the <hi>North,</hi> That one Captain <hi>Young</hi> that Com<g ref="char:EOLhyphen"/>manded a Party of the new Levied Forces, had Rancountred with a Par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of the <hi>M'clans,</hi> and ſeveral other <hi>Clans</hi> whom he Defeated, and put them all to Flight, and hath taken about 40 of them Priſoners: And this day it is confirmed by an Expreſs that came to Duke <hi>Hamilton.</hi>
+            </p>
+            <p>We have an Account from the <hi>Weſt</hi> of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> That my Lord <hi>Balgany</hi> who Commands one of the new Regiments there, hath taken ſeveral Men and Horſes that were comeing over from <hi>Ireland,</hi> and the Priſoners are ordered to be ſent in here.</p>
+            <p>At <hi>Milton</hi> ſome 10 Miles from <hi>Inverneſs,</hi> a Son of the Viſcount of <hi>Tarbat</hi> was taken from thence, by General Major <hi>M'kay,</hi> whom he keeps in his own Cuſtody, and will not let him go from him, he being a <hi>Papiſt,</hi> but are ſtill Sur<g ref="char:EOLhyphen"/>veying all the <hi>North,</hi> with all the Vigour that he can make againſt <hi>Clovers.</hi>
+            </p>
+            <p>On <hi>Tueſday</hi> the 21ſt. there were a great many <hi>Bombs</hi> thrown from the South Battery, ſeven of which fell into the Caſtle; one fell at the <hi>Guard hall,</hi> another on the <hi>Half-Moon,</hi> a third diſmounted a <hi>Canon;</hi> all the reſt fell within the Caſtle; but as yet we cannot give any account what loſs they had by them. All this was done betwixt 10 and 12 at Night.</p>
+            <p>The ſame Night the Caſtle hath ſhot very many Shots againſt the Batteries, and they againſt them.</p>
+            <p>
+               <hi>Wedneſday</hi> 22. The Caſtle about three a Clock in the Morning, put out two Flaggs; and a little after that Fired three Canon, two of which were towards the South Battery; one of which broke through a Houſe that is next to the Bat<g ref="char:EOLhyphen"/>tery, and a Centinel that was ſtanding near to that Houſe had only his Hands a little hurt by the broken Glaſs that came from the Windows: The other was ſhot toward the North-Eaſt Bat<g ref="char:EOLhyphen"/>tery, which did no harm.</p>
+            <p>The ſame day in the Forenoon the Caſtle Fired many ſmall Shot down to the Town, which only Killed one Woman, two Men, two Horſes and a Dogg; upon which the Citizens were very much Irritat, and in the Night-time <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey did make up a Battery of Wool-packs, Dung, and many other things neceſſary for that uſe, and it was from one ſide of the Street to the other, above a Man's ſight in one Nights time, which being ſeen by the Duke next Mor<g ref="char:EOLhyphen"/>ning, he cauſed two Parley's to be Beat; at the ſecond the Lieutenant Colonel <hi>Mackay</hi> and one of the Magiſtrates went to know his meaning, which was, that they ſhould remove that Bat<g ref="char:EOLhyphen"/>tery that was made in the Street, and he would not ſhoot any more down upon the Town; ſo they asked him, Why he Shot Yeſter<g ref="char:EOLhyphen"/>day? He Anſwered, that as he had got no Sleep this two Nights before, he being Sleepy went to Reſt, and it was unknown, and with<g ref="char:EOLhyphen"/>out Order of him that any Shot ſhould have been ſent down upon the Town. Upon which the Magiſtrate and the Colonel took his word of Honour, and ſo pull'd down the Battery.</p>
+            <p>Yeſterday there were ſeveral <hi>Bombs</hi> thrown againſt the Caſtle, five of which went into the Caſtle; one of them fell into the top of the big Houſe, which ſunk down through three Storys; another fell into their Well. If it had not been for the greatneſs of the Rains and Snow, I could have given you a greater account, for there can be no Canon placed near to the Batteries, by reaſon of the Sappineſs of the Ground.</p>
+            <p>This day we have Intelligence from Major General <hi>Mackay,</hi> that he intends to come to<g ref="char:EOLhyphen"/>wards <hi>Edinburgh</hi> from the <hi>North,</hi> in reſpect that he hath got the Bonds of moſt part of the <hi>Clans</hi> there; that they oblige themſelves to keep that Country in Peace ſo far as they are concerned.</p>
+            <p>
+               <hi>Thurſday</hi> 23. At 12 a Clock at Night the South Battery went in agitation againſt the Caſtle, which was performed extraordinary well, to wit, the Battery ſent in ſeven <hi>Bombs</hi> within the Wall, five of which fell upon the Principal Houſe; ſome of them are aſſerted to have fallen into the <hi>Crown</hi> Chamber, the Fire being ſeen to come plainly out of the Windows; but what Damage at that time was more done, we cannot give an exact Account of. They continued playing Yeſter night till 12 a Clock, which mightily Allarms the Beſieged; and it is confidently reported, That there has one made his Eſcape out of the Caſtle, who ſays ſince the firſt Night of their caſting their <hi>Bombs,</hi> there are 15 or 16 Killed, and there are ſeveral of
+<pb facs="tcp:47860:2"/>their Houſes Demoliſhed; that they were for<g ref="char:EOLhyphen"/>ced to retire to their Vaults.</p>
+            <p>This day about Three a Clock in the Mor<g ref="char:EOLhyphen"/>ning the <hi>Bombs</hi> fell a playing again, and after they had done ſome damage by breaking down their Balcony, with the Stance of the Centry, they gave over; and ſoon after that, the Great Guns that are upon the North Battery, fell a Playing upon the Caſtle, and the Caſtle back upon them, which continued for the ſpace of four Hours, no hurt being all this time to the Battery, but they diſabled ſeveral of the Guns in the Caſtle.</p>
+            <p>
+               <hi>Friday</hi> 24. the <hi>Convention</hi> Sat, where the King's Letter was read for turning them into a <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> and according to the Tenour of the ſaid Letter, they Adjourned to the 5th. of <hi>June,</hi> then they fell upon the Anſwer of His <hi>Majeſties</hi> Let<g ref="char:EOLhyphen"/>ter, which they have agreed upon, and the Per<g ref="char:EOLhyphen"/>ſons that are ordered by the <hi>Convention</hi> to come up with the ſaid Anſwer, if the King thinks fit, are, Duke <hi>Hamilton,</hi> Lord <hi>Roſs,</hi> Sir <hi>Patrick Home</hi> of <hi>Polwart,</hi> and Mr. <hi>William Hamilton.</hi>
+            </p>
+            <p>The Names of the <hi>Privy-Council</hi> are as follow, <hi>viz.</hi>
+               <list>
+                  <item>Duke <hi>Hamilton</hi>
+                  </item>
+                  <item>Marq. of <hi>Douglas</hi>
+                  </item>
+                  <item>Mar. of <hi>Athol</hi>
+                  </item>
+                  <item>E. of <hi>Dramlaning</hi>
+                  </item>
+                  <item>E. of <hi>Argyle</hi>
+                  </item>
+                  <item>E. of <hi>Crauford</hi>
+                  </item>
+                  <item>E. of <hi>Errol</hi>
+                  </item>
+                  <item>E. <hi>Marſhal</hi>
+                  </item>
+                  <item>E. of <hi>Sutherland</hi>
+                  </item>
+                  <item>E. of <hi>Glencairn</hi>
+                  </item>
+                  <item>E. of <hi>Eglington</hi>
+                  </item>
+                  <item>E. of <hi>Caſtes</hi>
+                  </item>
+                  <item>E. of <hi>Lothian</hi>
+                  </item>
+                  <item>E. of <hi>Annandale</hi>
+                  </item>
+                  <item>E. of <hi>Levin</hi>
+                  </item>
+                  <item>E. of <hi>Dundonnald</hi>
+                  </item>
+                  <item>E. of <hi>Kintore</hi>
+                  </item>
+                  <item>Lord <hi>Roſs</hi>
+                  </item>
+                  <item>L. <hi>Carmichael</hi>
+                  </item>
+                  <item>L. <hi>Rothvian</hi>
+                  </item>
+                  <item>Maſt. of <hi>Forbes</hi>
+                  </item>
+                  <item>Maſt. of <hi>Melvin</hi>
+                  </item>
+                  <item>Sr. <hi>Jo. Maitland</hi>
+                  </item>
+                  <item>Sr. <hi>Hugh Campbel</hi> of <hi>Calder</hi>
+                  </item>
+                  <item>Sr. <hi>Patrick Hume</hi> of <hi>Polwart</hi>
+                  </item>
+                  <item>L. of <hi>Grant</hi>
+                  </item>
+                  <item>Sr. <hi>Arch. Murray</hi> of <hi>Blackbarrendry</hi>
+                  </item>
+                  <item>Sr. <hi>Jo. Maxwell</hi> of <hi>Pologue</hi>
+                  </item>
+                  <item>Sr. <hi>Rob. Sinclare</hi> of <hi>Stevinſon</hi>
+                  </item>
+                  <item>L. of <hi>Ormiſton</hi>
+                  </item>
+                  <item>L. of <hi>B<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>odie</hi>
+                  </item>
+                  <item>M. G. <hi>Mackay</hi>
+                  </item>
+                  <item>The Provoſt of <hi>Edinburgh</hi>
+                  </item>
+                  <item>
+                     <hi>Argyle</hi>
+                  </item>
+                  <item>
+                     <hi>Melvil</hi>
+                  </item>
+                  <item>
+                     <hi>Staire.</hi>
+                  </item>
+                  <item>
+                     <hi>Skelmorly</hi>
+                  </item>
+                  <item>Sr. <hi>Jo. Dalrymple</hi>
+                  </item>
+                  <item>
+                     <hi>Yeſter.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>On <hi>Sunday</hi> 26. the Batteries play'd upon the Caſtle the whole day, and hath done a great deal of Damage by their Battering of the Walls, but more particularly by the <hi>Bombs,</hi> there being a great many ſhot, and many of them fell into the Principal Houſe, and Diſmounted ſeveral of their Guns, but they Fired little out of the Caſtle, which makes us believe that he hath ſpent moſt part of his Ammunition: There are ſeveral of his Men come out, and amongſt them there are one <hi>Dumbar</hi> a pretended Gunner, and Mr. <hi>Charles Foſter</hi> their Miniſter, who did as much Execution as any of them, and their re<g ref="char:EOLhyphen"/>port is, that the moſt part of them left behind would be content to be out too, ſaving only ſome of the Duke's Friends and Servants, who waits upon him now, he being very Ill and in great Sickneſs, for he is forced to ly in Vaults, for the Principal Houſe is ſadly beat down on ſome parts with the <hi>Bombs</hi> and the Great Can<g ref="char:EOLhyphen"/>on on the North Battery, which does Fire both Night and Day upon him.</p>
+            <p>Juſt now ſince the Writing of the laſt Line, I was an Eye Witneſs within the Battery, where there was 14. <hi>Bombs</hi> caſt in two Hours time four of which fell into the Principal Houſe, and broke down the Flagg-ſtaff; all the reſt, excep<g ref="char:EOLhyphen"/>ting one that fell ſhort, were all within the Caſtle. The Execution muſt needs be great.</p>
+            <p>The 28th. the Northern Poſt came in, who gives an Account, That Major General <hi>Mackay</hi> is ſtill lying at <hi>Elgin</hi> and hath above 1500 Fight<g ref="char:EOLhyphen"/>ing Men with him, and a great many Gentle<g ref="char:EOLhyphen"/>men Joyn him daily with conſiderable Numbers of Men, that the Lord <hi>Dundee</hi> hath gathered toge<g ref="char:EOLhyphen"/>ther a Body of 1500 Men, there being a great many of the Wild <hi>High-landers</hi> joyning him, who neither cares for King nor Country, but only for their own Private Ends, in Robbing and Pillaging the Country; but it is thought here, that neither he nor they can be able to keep the Field long, by reaſon of ſcarſity of Victuals both for Horſes and Men.</p>
+            <p>We have an Account from <hi>Ireland,</hi> that the Natives there are moſt partly Revolting from King <hi>James,</hi> by reaſon of his taking the Com<g ref="char:EOLhyphen"/>miſſions from them, and giving them to <hi>French</hi> Officers, which has Irritat them very much againſt him. They add, that <hi>Inehekelly</hi> holds out againſt him, and that they had taken a great deal of Ammunition, <hi>Bombs</hi> and <hi>Mortarpieces,</hi> and Killed ſeveral of their Men, and taken a great many of them Priſoners, that were conveying this Ammunition to the Siege of <hi>Derry,</hi> which hold out bravely, and a great many goes into the Town daily; that they are grown ſo ſtrong, that they are willing to fight the Enemy in the Field.</p>
+            <p>
+               <hi>May</hi> 29. This day a Souldier of General <hi>Mackay</hi>'s wrote to his Wife; That the <hi>Athol</hi> Men roſe upon them, and that the Contrary Party was forc'd to retire back from <hi>Dunkell</hi> to St. <hi>Johnſton;</hi> and the <hi>Athol</hi> Men are of a great Body; and ſome ſay they will joyn with <hi>Dundee;</hi> and that they have Killed ſome belonging to <hi>Mackay.</hi>
+            </p>
+            <p>
+               <hi>Ditto.</hi> The Duke of <hi>Gordon</hi> kept King <hi>Charles</hi>'s Birth<g ref="char:EOLhyphen"/>day and put out his Flagg, and Fired many of his Great Guns, and made a great Bonfire in the Caſtle, and they all ſeemed to be very Merry and Joyful, and they Solem<g ref="char:EOLhyphen"/>nized the whole day very heartily, with great Acclamations and drinking of Healths.</p>
+            <p>
+               <hi>Ditto.</hi> There were one or two Bonfires made in the Streets here, where ſeveral Diſaffected Perſons gathered to<g ref="char:EOLhyphen"/>gether, who had the Impudence to drink the Healths of King <hi>James,</hi> the Duke of <hi>Gordon,</hi> and the Viſcount of <hi>Dundee,</hi> and wiſhed them Proſperity in all their Actions; upon which the Magiſtrates ordered the Guards to diſperſe them, but a great Rabble getting together, they could not, till a greater Company come down, where were ſeveral of the Rabble taken and put in Priſon, who continue there as yet, and it is thought, they will be ſeverely puniſhed, but they are not yet called in to give their Reaſons why they did it.</p>
+            <p>This day there was two Expreſſes read here, the firſt de<g ref="char:EOLhyphen"/>claring, That thoſe in <hi>London Derry</hi> had made another Sally out upon the Beſiegers in which Action it is ſaid there are 5000 of the Enemy Killed, and that they have taken their whole Ammunition, and Pillaged the Camp, and actually raiſed their Siege, and put them all to the Flight; But in this Action the Proteſtants have loſt a great many Men; but however they are as is ſaid Maſters of the Field now.</p>
+            <p>The ſecond Expreſs that is come in, bears the confirma<g ref="char:EOLhyphen"/>tion of this Victory, and adds, that there is a great many of their Beſt Officers Kill'd; particularly Colonel <hi>Ranſay</hi> and Colonel <hi>Vachop</hi> Wounded and taken Priſoners; and that they have likewiſe taken the Duke of <hi>Berwick,</hi> and they are Priſoners in <hi>Derry.</hi>
+            </p>
+            <p>There is another new Battery made on the North-ſide o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Caſtle, which by all appearance will do more hur<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> than all the reſt, it being the nigheſt, and as well Fortifie as any of them.</p>
+            <p>
+               <hi>May</hi> 30. The Batteries this Night hath play'd very har<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon the Caſtle, and the Caſtle upon them; the loſs of the Perſons that are in the Battery is nothing, as none be<g ref="char:EOLhyphen"/>ing Killed, but what is in the Caſtle we cannot give an Ac<g ref="char:EOLhyphen"/>count.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Liſenced according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Groom,</hi> at the <hi>Blue-Ball</hi> in <hi>Thames-ſtreet.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
